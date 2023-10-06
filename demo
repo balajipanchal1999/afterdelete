@@ -1,0 +1,4 @@
+this is javascript program 
+var str =" i am balaji panchal";
+var ans = str.length();
+
